@@ -51,5 +51,5 @@ bot.on("message", function (message) {
     }
 });
 
-bot.login('Mzk3ODI0NDc3NzgzNzg1NDgy.DS1mdQ.EKOFBstnD7a3BeSibR_R22IAMSk');
+bot.login('LOL YOUR NUMBER HERE');
 
